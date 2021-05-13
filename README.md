@@ -33,6 +33,6 @@ application/x-www-form-urlencoded
 ### Body
 chat_id=@AnsaSicilia&text= {{EntryTitle}} {{EntryUrl}}
 
-(Surround any text with <<< and >>> to escape the content)
+<code>Surround any text with <<< and >>> to escape the content</code>
 
 
