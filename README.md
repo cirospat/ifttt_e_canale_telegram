@@ -36,4 +36,6 @@ https://feedpress.me/gds_hp_palermo (url del feed RSS)
 
 Surround any text with <<< and >>> to escape the content
 
+---
 
+Una semplice guida = https://www.piersoft.it/creare-canale-telegram-ed-alimentarlo-automaticamente-un-rss-feed/
