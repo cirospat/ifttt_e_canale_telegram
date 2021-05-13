@@ -19,20 +19,20 @@ https://feedpress.me/gds_hp_palermo (url del feed RSS)
 
 ### URL:
 
-https://api.telegram.org/bot256932411:AAFi0hEeve79ujB3i84ZkUYkJIVtBtTTFoE/sendMessage
+<code>https://api.telegram.org/bot256932411:AAFi0hEeve79ujB3i84ZkUYkJIVtBtTTFoE/sendMessage</code>
 
 ### Method
 
-POST
+<code>POST</code>
 
 ### Content Type
 
-application/x-www-form-urlencoded
+<code>application/x-www-form-urlencoded</code>
 
 
 ### Body
-chat_id=@AnsaSicilia&text= {{EntryTitle}} {{EntryUrl}}
+<code>chat_id=@AnsaSicilia&text= {{EntryTitle}} {{EntryUrl}}</code>
 
-<code>Surround any text with <<< and >>> to escape the content</code>
+Surround any text with <<< and >>> to escape the content
 
 
