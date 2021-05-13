@@ -12,6 +12,9 @@ https://feedpress.me/gds_hp_palermo (url del feed RSS)
 
 ↓
 
+<p><img src="https://raw.githubusercontent.com/cirospat/ifttt_e_canale_telegram/main/img/then.png"></p>
+
+
 # Make a web request
 
 ### URL:
