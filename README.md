@@ -1,4 +1,4 @@
-# ifttt e canale telegram
+# ifttt e canale telegram per i feed RSS
 agganciare un feed RSS ad un canale Telegram grazie al servizio web di IFTTT
 
 <p><img src="https://raw.githubusercontent.com/cirospat/ifttt_e_canale_telegram/main/img/if.png"></p>
