@@ -1,10 +1,10 @@
 # ifttt e canale telegram
-
 ---
 
 # New feed item
 
-Feed URL
+## Feed URL
+
 https://feedpress.me/gds_hp_palermo (url del feed RSS)
 
 
