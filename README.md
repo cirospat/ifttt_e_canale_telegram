@@ -1,4 +1,4 @@
-[IFTTT](https://ifttt.com/home) per creare canale telegram con i feed RSS
+[IFTTT](https://ifttt.com/home) per creare canale [Telegram](https://desktop.telegram.org/) con i feed [RSS](https://it.wikipedia.org/wiki/RSS)
 =======
 agganciare un feed RSS ad un canale Telegram grazie al servizio web di IFTTT
 
