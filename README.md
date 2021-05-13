@@ -38,4 +38,7 @@ Surround any text with <<< and >>> to escape the content
 
 ---
 
-Una semplice guida = https://www.piersoft.it/creare-canale-telegram-ed-alimentarlo-automaticamente-un-rss-feed/
+## Semplici guide
+- https://www.piersoft.it/creare-canale-telegram-ed-alimentarlo-automaticamente-un-rss-feed/
+- http://www.andreaminini.com/telegram/come-pubblicare-automaticamente-su-telegram-tramite-ifttt
+- https://github.com/ondata/albo-pop/wiki/IFTTT#pubblicare-gli-aggiornamenti-di-un-feed-rss-su-un-canale-telegram
