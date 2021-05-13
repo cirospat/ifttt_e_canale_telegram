@@ -4,13 +4,15 @@ agganciare un feed RSS ad un canale Telegram grazie al servizio web di IFTTT
 
 ## Edit Applet
 
+[**create**](https://ifttt.com/create) 
+
+cerca <code>RSS</code>
+
 <p><img src="https://raw.githubusercontent.com/cirospat/ifttt_e_canale_telegram/main/img/if.png"></p>
 
 # New feed item
 
-## [Feed URL](https://ifttt.com/create) 
-
-cerca <code>RSS</code>
+## Feed URL
 
 https://feedpress.me/gds_hp_palermo (url del feed RSS)
 
