@@ -1,7 +1,8 @@
 # ifttt e canale telegram
 ---
 
-[!](https://raw.githubusercontent.com/cirospat/ifttt_e_canale_telegram/main/img/if.png)
+<p><img class="imageLeft" style="width: 33px; height: 30px;" src="https://raw.githubusercontent.com/cirospat/ifttt_e_canale_telegram/main/img/if.png"></p>
+
 
 # New feed item
 
