@@ -14,7 +14,7 @@ cerca <code>RSS</code>
 
 ## Feed URL
 
-https://feedpress.me/gds_hp_palermo (url del feed RSS)
+inerisci il link del feed RSS https://feedpress.me/gds_hp_palermo (url del feed RSS)
 
 ↓
 
@@ -25,21 +25,22 @@ https://feedpress.me/gds_hp_palermo (url del feed RSS)
 
 ### URL:
 
+digita il link dell'API che ti fornisce il BOT  che hai creato grazie a Bot father su Telegram (prima devi aver creato il BOT su Telegram)
+
 <code>https://api.telegram.org/bot256932411:AAFi0hEeve79ujB3i84ZkUYkJIVtBtTTFoE/sendMessage</code>
 
 ### Method
 
-<code>POST</code>
+seleziona <code>POST</code>
 
 ### Content Type
 
-<code>application/x-www-form-urlencoded</code>
+seleziona <code>application/x-www-form-urlencoded</code>
 
 
 ### Body
-<code>chat_id=@AnsaSicilia&text= {{EntryTitle}} {{EntryUrl}}</code>
 
-Surround any text with <<< and >>> to escape the content
+inserisci l'id del canale che hai precedentmente creato su Telegram <code>chat_id=@AnsaSicilia&text= {{EntryTitle}} {{EntryUrl}}</code>
 
 ---
 
