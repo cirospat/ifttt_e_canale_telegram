@@ -31,20 +31,20 @@ digita il link dell'API che ti fornisce il BOT  che hai creato grazie a Bot fath
 
 ### Method
 
-seleziona <code>POST</code>
+seleziona = <code>POST</code>
 
 ### Content Type
 
-seleziona <code>application/x-www-form-urlencoded</code>
+seleziona = <code>application/x-www-form-urlencoded</code>
 
 
 ### Body
 
-inserisci l'id del canale che hai precedentmente creato su Telegram <code>chat_id=@AnsaSicilia&text= {{EntryTitle}} {{EntryUrl}}</code>
+inserisci l'id del canale che hai precedentmente creato su Telegram inserendo la seguente sintassi = <code>chat_id=@AnsaSicilia&text= {{EntryTitle}} {{EntryUrl}}</code>
 
 ---
 
-### <code>Semplici guide</code>
+### <code>Semplici guide per creare canali Telegram che si alimentano dai feed RSS grazie al servizio di IFTTT</code>
 - https://www.piersoft.it/creare-canale-telegram-ed-alimentarlo-automaticamente-un-rss-feed/
 - http://www.andreaminini.com/telegram/come-pubblicare-automaticamente-su-telegram-tramite-ifttt
 - https://github.com/ondata/albo-pop/wiki/IFTTT#pubblicare-gli-aggiornamenti-di-un-feed-rss-su-un-canale-telegram
