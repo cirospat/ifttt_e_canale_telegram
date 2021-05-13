@@ -2,6 +2,13 @@
 
 ---
 
+# New feed item
+
+Feed URL
+https://feedpress.me/gds_hp_palermo (url del feed RSS)
+
+
+
 ## Make a web request
 
 ### URL:
