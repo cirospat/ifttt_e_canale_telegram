@@ -17,7 +17,7 @@ cerca <code>RSS</code>
 inserisci il link del feed RSS https://feedpress.me/gds_hp_palermo (url del feed RSS)
 
 
-↓
+↓ su IFTTT cerca il componente editando "make a web request"
 
 <p><img src="https://raw.githubusercontent.com/cirospat/ifttt_e_canale_telegram/main/img/then.png"></p>
 
