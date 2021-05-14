@@ -44,6 +44,8 @@ seleziona = <code>application/x-www-form-urlencoded</code>
 
 inserisci l'id del canale che hai precedentmente creato su Telegram inserendo la seguente sintassi = <code>chat_id=@AnsaSicilia&text= {{EntryTitle}} {{EntryUrl}}</code>
 
+dove @AnsaSicilia è un nome del canale Telegram precedentemente creato dove si vuole che vengano pubblicati i feed RSS 
+
 ---
 
 ### <code>Semplici guide per creare canali Telegram che si alimentano dai feed RSS grazie al servizio di IFTTT</code>
