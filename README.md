@@ -48,6 +48,10 @@ dove @AnsaSicilia è un nome del canale Telegram precedentemente creato dove si 
 
 ---
 
+---
+
+---
+
 ### <code>Semplici guide per creare canali Telegram che si alimentano dai feed RSS grazie al servizio di IFTTT</code>
 - https://www.piersoft.it/creare-canale-telegram-ed-alimentarlo-automaticamente-un-rss-feed/
 - http://www.andreaminini.com/telegram/come-pubblicare-automaticamente-su-telegram-tramite-ifttt
