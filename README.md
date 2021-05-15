@@ -52,3 +52,8 @@ dove @AnsaSicilia è un nome del canale Telegram precedentemente creato dove si 
 - https://www.piersoft.it/creare-canale-telegram-ed-alimentarlo-automaticamente-un-rss-feed/
 - http://www.andreaminini.com/telegram/come-pubblicare-automaticamente-su-telegram-tramite-ifttt
 - https://github.com/ondata/albo-pop/wiki/IFTTT#pubblicare-gli-aggiornamenti-di-un-feed-rss-su-un-canale-telegram
+
+
+---
+
+# Per collegare un fedd <code>RSS</code> ad una canale Telegram, il serviziodi **IFTTT** prevede ora la possibilità di selezionare nella ricetta direttamente **Telegram**.
