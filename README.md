@@ -56,4 +56,20 @@ dove @AnsaSicilia è un nome del canale Telegram precedentemente creato dove si 
 
 ---
 
-# Per collegare un fedd <code>RSS</code> ad una canale Telegram, il servizio di <code>IFTTT</code> prevede ora la possibilità di selezionare nella ricetta direttamente <code>Telegram</code>.
+# Per collegare un feed <code>RSS</code> ad una canale Telegram, il servizio di <code>IFTTT</code> prevede ora la possibilità di selezionare nella ricetta direttamente <code>Telegram</code>.
+
+## Edit Applet
+
+[**create**](https://ifttt.com/create) 
+
+cerca <code>RSS</code>
+
+# New feed item
+
+## Feed URL
+
+<p><img src="https://raw.githubusercontent.com/cirospat/ifttt_e_canale_telegram/main/img/if.png"></p>
+
+inserisci il link del feed RSS https://feedpress.me/gds_hp_palermo (url del feed RSS)
+
+.... to be continued
