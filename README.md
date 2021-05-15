@@ -56,4 +56,4 @@ dove @AnsaSicilia è un nome del canale Telegram precedentemente creato dove si 
 
 ---
 
-# Per collegare un fedd <code>RSS</code> ad una canale Telegram, il serviziodi **IFTTT** prevede ora la possibilità di selezionare nella ricetta direttamente **Telegram**.
+# Per collegare un fedd <code>RSS</code> ad una canale Telegram, il servizio di <code>IFTTT</code> prevede ora la possibilità di selezionare nella ricetta direttamente <code>Telegram</code>.
